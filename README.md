@@ -5,4 +5,4 @@ The folder labelled Penguin contains MATLAB code relevent for importing the peng
 
 The folder labelled Pendulum contains code for the simulation of the motion and implementation of the KF and EKF for the linear and nonlinear pendulum tracking problem.
 
-The folder lablled background contains a poster summarizing the thesis and the thesis itself.
+
